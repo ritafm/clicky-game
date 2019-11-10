@@ -46,10 +46,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {/* <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React Clicky Game!!</h1>
-        </header> */}
         <h3 className="App-intro">
           <strong>Click on an image to earn points, but don't click on any, more than once!</strong> 
           <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
@@ -68,11 +64,6 @@ class App extends Component {
             />
           ))}
         />
-        {/* <footer className="footer">
-      <div className="container">
-        <span className="text-muted">&copy;Rita - Clicky Game - React app.</span>
-      </div>
-    </footer>  */}
       </div>
     );
   }
