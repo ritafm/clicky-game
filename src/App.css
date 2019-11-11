@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fRGuSIc0Nf-x_Kl8abu9mE6FfnpIiyvYZCcQolljVvtujEP6");
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+    padding: 20px;
+    color: darkblue;
+  }
+  
+  .score {
+    color: rgb(109, 54, 91);
+  }
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
