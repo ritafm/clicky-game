@@ -1,6 +1,9 @@
 Clicky-Game
+_________________________________________________________________________________________________________________________________________
 
-Memory game build using React JS library. Components state is managed to respond to user events.
+Memory game built using React JS library. Components state is managed to respond to user events.
+
+_________________________________________________________________________________________________________________________________________
 
 
 1. The application renders botanical images to the screen. Each image listens for click events.
@@ -9,7 +12,6 @@ Memory game build using React JS library. Components state is managed to respond
 4. When the user makes an incorrect guess, the game restarts.
 5. Game is deployed with Github Pages. Click this link to play : <a href="https://ritafm.github.io/clicky-game/" rel="nofollow">clicky-game</a>
 
-
-This project was bootstrapped with Create React App.
+_________________________________________________________________________________________________________________________________________
 
 ![Untitled](https://user-images.githubusercontent.com/48167135/69169995-2b951800-0aae-11ea-9456-c27f1d139036.png)
