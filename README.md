@@ -1,4 +1,7 @@
 Clicky-Game
+
+Technologies Used: HTML, CSS, React, jQuery  
+
 _________________________________________________________________________________________________________________________________________
 
 Memory game built using React JS library. Components state is managed to respond to user events.
